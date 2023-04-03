@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DEVELOP\\GEEKBRAINS\\Инженер Програмист\\Итоговые работы\\Final_papers\\Finla_paper_1\\Finla_paper_1.csproj": {}
+    "E:\\DEVELOP\\GEEKBRAINS\\Инженер Програмист\\Итоговые работы\\Final_papers\\Final_paper1\\Final_paper1.csproj": {}
   },
   "projects": {
-    "E:\\DEVELOP\\GEEKBRAINS\\Инженер Програмист\\Итоговые работы\\Final_papers\\Finla_paper_1\\Finla_paper_1.csproj": {
+    "E:\\DEVELOP\\GEEKBRAINS\\Инженер Програмист\\Итоговые работы\\Final_papers\\Final_paper1\\Final_paper1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DEVELOP\\GEEKBRAINS\\Инженер Програмист\\Итоговые работы\\Final_papers\\Finla_paper_1\\Finla_paper_1.csproj",
-        "projectName": "Finla_paper_1",
-        "projectPath": "E:\\DEVELOP\\GEEKBRAINS\\Инженер Програмист\\Итоговые работы\\Final_papers\\Finla_paper_1\\Finla_paper_1.csproj",
+        "projectUniqueName": "E:\\DEVELOP\\GEEKBRAINS\\Инженер Програмист\\Итоговые работы\\Final_papers\\Final_paper1\\Final_paper1.csproj",
+        "projectName": "Final_paper1",
+        "projectPath": "E:\\DEVELOP\\GEEKBRAINS\\Инженер Програмист\\Итоговые работы\\Final_papers\\Final_paper1\\Final_paper1.csproj",
         "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-        "outputPath": "E:\\DEVELOP\\GEEKBRAINS\\Инженер Програмист\\Итоговые работы\\Final_papers\\Finla_paper_1\\obj\\",
+        "outputPath": "E:\\DEVELOP\\GEEKBRAINS\\Инженер Програмист\\Итоговые работы\\Final_papers\\Final_paper1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Дмитрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
