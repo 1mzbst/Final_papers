@@ -1,0 +1,15 @@
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\bin\Debug\net7.0\Final_paper1.exe
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\bin\Debug\net7.0\Final_paper1.deps.json
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\bin\Debug\net7.0\Final_paper1.runtimeconfig.json
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\bin\Debug\net7.0\Final_paper1.dll
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\bin\Debug\net7.0\Final_paper1.pdb
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\obj\Debug\net7.0\Final_paper1.csproj.AssemblyReference.cache
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\obj\Debug\net7.0\Final_paper1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\obj\Debug\net7.0\Final_paper1.AssemblyInfoInputs.cache
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\obj\Debug\net7.0\Final_paper1.AssemblyInfo.cs
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\obj\Debug\net7.0\Final_paper1.csproj.CoreCompileInputs.cache
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\obj\Debug\net7.0\Final_paper1.dll
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\obj\Debug\net7.0\refint\Final_paper1.dll
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\obj\Debug\net7.0\Final_paper1.pdb
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\obj\Debug\net7.0\Final_paper1.genruntimeconfig.cache
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Итоговые работы\Final_papers\Final_paper1\obj\Debug\net7.0\ref\Final_paper1.dll
