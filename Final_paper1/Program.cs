@@ -39,3 +39,12 @@ void ShowArray(string[] array) // Метод вывода массива в ко
     Console.Write("]");
     Console.WriteLine();
 }
+
+Console.WriteLine("Enter the size of the array.");
+int size = Convert.ToInt32(Console.ReadLine()); // Переменная размера массива вводных данных.
+string[] someArray = CreateStringArr(size); // Дополнительный массив упрощающий визуальное восприятие, и упрощающее написание кода.
+Console.WriteLine($"It is the entered array from any {size} words.");
+ShowArray(someArray); // Вывод в консоль массива введённых данных с клавиатуры.
+threeLetter(someArray); // Вызов метода, выводящего в консоль изменённый массив, удовлетворяющий условие задачи.
+
+//__________________________________________________________________________________________________________________________________
