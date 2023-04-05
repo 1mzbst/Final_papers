@@ -7,7 +7,6 @@
 string[] CreateStringArr(int size) // Метод создание массива состоящего из строк.
 {
     string[] array = new string[size];
-    Console.WriteLine($"Enter the {size} words:");
     for (int i = 0; i < array.Length; i++)
     {
         array[i] = Console.ReadLine(); // Ввод осуществляется через консоль, вручную.
@@ -19,7 +18,7 @@ string[] CreateStringArr(int size) // Метод создание массива
     return array;
 }
 
-void threeLetter(string[] array) // Метод вывода нового массива, состоящего из индексов удовлетворяющих условие задачи.
+void threeLetter(string[] array) // Метод вывода нового массива, состоящего из алгоритма выполняющего условие задачи.
 {
     Console.Write("This is the new array from three or less letters in a word: [ ");
     for (int i = 0; i < array.Length; i++)
@@ -42,8 +41,9 @@ void ShowArray(string[] array) // Метод вывода массива в ко
 
 Console.WriteLine("Enter the size of the array.");
 int size = Convert.ToInt32(Console.ReadLine()); // Переменная размера массива вводных данных.
+Console.WriteLine($"Enter the any {size} words or symbols:");
 string[] someArray = CreateStringArr(size); // Дополнительный массив упрощающий визуальное восприятие, и упрощающее написание кода.
-Console.WriteLine($"It is the entered array from any {size} words.");
+Console.WriteLine($"It is the entered array:");
 ShowArray(someArray); // Вывод в консоль массива введённых данных с клавиатуры.
 threeLetter(someArray); // Вызов метода, выводящего в консоль изменённый массив, удовлетворяющий условие задачи.
 
